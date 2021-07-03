@@ -9,7 +9,7 @@ def subtract(x,y):
      #substract implementation
 # Multiply implementation
 def multiply(x,y):
-    return x*y   #on master branch
+    return x*y x*y   #on master branch
     #multiply implementation
 # Divide implementation
 def divide(x,y):
