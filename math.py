@@ -13,7 +13,7 @@ def multiply(x,y):
     #multiply implementation
 # Divide implementation
 def divide(x,y):
-    #add divide change
+    #add divide changex/y dfsd s
 <<<<<<< HEAD
     return x/y #on master branch
 =======
